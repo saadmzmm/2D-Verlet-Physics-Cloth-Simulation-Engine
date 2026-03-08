@@ -2,7 +2,7 @@
 
 A lightweight, CPU-based 2D physics engine built from scratch in C++. This project demonstrates core game and physics engine development principles, specifically focusing on soft-body dynamics, cloth simulation, and constraint satisfaction.
 
-![Cloth Simulation Demo](link-to-your-gif-here.gif) 
+[![08-03-2026-09-00-08-REC-ezgif-com-video-to-gif-converter.gif](https://i.postimg.cc/Gm35dwtq/08-03-2026-09-00-08-REC-ezgif-com-video-to-gif-converter.gif)](https://postimg.cc/8j3HmYh6)
 
 ## Core Architecture
 Unlike standard game engines that use Euler integration, this engine utilizes **Verlet Integration** to calculate particle trajectories. This approach inherently stabilizes the simulation, making it highly suitable for complex soft-body interactions like cloth and ropes.
